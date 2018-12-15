@@ -18,7 +18,7 @@ $ yarn <название команды>
   <tbody>
     <tr>
       <td>
-        <code>format</code>
+        <code>prettier</code>
       </td>
       <td>Форматирование кода при помощи Prettier</td>
     </tr>
