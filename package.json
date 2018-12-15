@@ -7,9 +7,12 @@
   "license": "MIT",
   "private": true,
   "scripts": {
-    "format": "prettier --write **/*.js"
+    "prettier": "prettier --write **/*.js",
+    "imagemin": "node imagemin.js",
+    "sharp": "node sharp.js"
   },
   "devDependencies": {
+    "execa": "^1.0.0",
     "imagemin": "^6.0.0",
     "imagemin-mozjpeg": "^8.0.0",
     "mozjpeg": "^6.0.1",
