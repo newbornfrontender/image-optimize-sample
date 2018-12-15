@@ -6,6 +6,9 @@
   "author": "Infant Frontender <newbornfrontender@gmail.com>",
   "license": "MIT",
   "private": true,
+  "scripts": {
+    "format": "prettier --write **/*.js"
+  },
   "devDependencies": {
     "imagemin": "^6.0.0",
     "imagemin-mozjpeg": "^8.0.0",
