@@ -9,7 +9,8 @@
   "scripts": {
     "prettier": "prettier --write **/*.{html,js}",
     "imagemin": "node imagemin.js",
-    "sharp": "node sharp.js"
+    "sharp": "node sharp.js",
+    "serve": "serve"
   },
   "devDependencies": {
     "execa": "^1.0.0",
@@ -18,6 +19,7 @@
     "imagemin-mozjpeg": "^8.0.0",
     "mozjpeg": "^6.0.1",
     "prettier": "^1.15.3",
+    "serve": "^10.1.1",
     "sharp": "^0.21.1"
   }
 }
