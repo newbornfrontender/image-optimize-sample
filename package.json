@@ -5,5 +5,10 @@
   "repository": "https://github.com/newbornfrontender/image-optimize-sample.git",
   "author": "Infant Frontender <newbornfrontender@gmail.com>",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "devDependencies": {
+    "imagemin": "^6.0.0",
+    "prettier": "^1.15.3",
+    "sharp": "^0.21.1"
+  }
 }
