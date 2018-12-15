@@ -1,5 +1,5 @@
-const sharp = require('sharp');
 const glob = require('glob');
+const sharp = require('sharp');
 
 glob('from/*.jpg', (err, files) =>
   files.map((file) =>
