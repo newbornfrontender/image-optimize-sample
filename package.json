@@ -1,0 +1,9 @@
+{
+  "name": "image-optimize-sample",
+  "version": "1.0.0",
+  "description": "Тестовый репозиторий для проверки способов оптимизации изображений",
+  "repository": "https://github.com/newbornfrontender/image-optimize-sample.git",
+  "author": "Infant Frontender <newbornfrontender@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
