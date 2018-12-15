@@ -7,7 +7,7 @@
   "license": "MIT",
   "private": true,
   "scripts": {
-    "prettier": "prettier --write **/*.js",
+    "prettier": "prettier --write **/*.{html,js}",
     "imagemin": "node imagemin.js",
     "sharp": "node sharp.js"
   },
