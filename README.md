@@ -22,6 +22,12 @@ $ yarn <название команды>
       </td>
       <td>Форматирование кода при помощи Prettier</td>
     </tr>
+    <tr>
+      <td>
+        <code>imagemin</code>
+      </td>
+      <td>Минификация изображений при помощи Imagemin</td>
+    </tr>
   </tbody>
 </table>
 
